@@ -1,0 +1,22 @@
+Current Crop,Landholding,Irrigation,Water Source,Budget/acre (₹),Risk Appetite,Crop Cycle,Crop Rotation / Intercropping,Recommended Rabi Crop,Recommended Summer Crop,Recommended Kharif Crop
+Rice,Small (<2 ha),Yes,Borewell/Canal,"10,000–15,000",Medium,Short-Medium,Yes,"Chickpea, Mustard, Lentil","Sunflower, Green gram"
+Rice,Medium (2–5 ha),Yes,Borewell + Rain,"12,000–20,000",Medium to High,Medium,Yes,"Wheat, Mustard","Maize (fodder), Green gram"
+Rice,Large (>5 ha),No,Rainfed + River,"15,000–18,000",Medium,Medium,Yes,"Chickpea, Linseed","Green gram, Leave fallow"
+Maize,Small (<2 ha),No,Rainfed,"<10,000",Low,Short,Yes,"Chickpea, Horsegram","Leave fallow, Cowpea (green manure)"
+Maize,Medium (2–5 ha),Yes,Borewell + Rain,"15,000–18,000",Medium,Medium,Yes,"Wheat, Mustard","Green gram, Vegetables"
+Maize,Large (>5 ha),Yes,Canal + Borewell,"20,000+",High,Medium-Long,Yes,"Potato, Barley","Moong, Cash crops"
+Cotton,Small (<2 ha),No,Rainfed,"<12,000",Low,Long,Yes,"Chickpea, Linseed","Leave fallow, Green gram"
+Cotton,Medium (2–5 ha),Yes,Borewell + Canal,"15,000–18,000",Medium,Medium-Long,Yes,"Mustard, Wheat","Vegetables, Sunflower"
+Cotton,Large (>5 ha),Yes,Borewell + Rain,"20,000+",High,Long,Yes,"Potato, Chickpea","Cash vegetables, Moong"
+Ragi (Finger Millet),Small (<2 ha),No,Rainfed,"<10,000",Low,Short,Yes,"Horse gram, Field pea",Fallow or fodder grass
+Maize (Corn),Medium to Large (>2 ha),Yes,Borewell / Canal,"12,000–20,000",Medium to High,Medium,Yes,"Wheat, Mustard, Chickpea","Sunflower, Fodder maize"
+Tur (Arhar),Small to Medium,No,Rainfed,"<15,000",Medium,Short to Medium,Yes,"Chickpea, Linseed",Green gram
+Gram (Chickpea),Medium,Yes,Canal / Borewell,"10,000–15,000",Medium,Short,Yes,,Green gram or Sunflower,"Sorghum, Bajra"
+Groundnut,Small to Medium (<5 ha),Yes/No,Rainfed / Borewell,"12,000–18,000",Medium,Short to Medium,Yes,"Chickpea, Wheat","Sunflower, Green gram"
+Sunflower,Medium to Large,Yes,Borewell / Canal,"15,000–20,000",Medium to High,Short,Yes,,"Wheat, Mustard",Maize + Cowpea intercrop
+Safflower,Small to Medium,No,Rainfed,"<12,000",Low to Medium,Short,Yes,"Chickpea, Linseed",,"Pearl millet, Sorghum"
+Sugarcane,Large (>5 ha),Yes,Canal / Borewell,"30,000+",High,Long (12–18 months),Yes
+Jowar (Sorghum),Small,No,Rainfed,"<10,000",Low,Short,Yes,"Chickpea, Horse gram",Fallow,Sorghum + Pigeonpea (intercrop)
+Jowar (Sorghum),Small,Yes,Borewell,"10,000–15,000",Medium,Short,Yes,"Chickpea, Mustard ",Green gram,"Improved Sorghum, Cowpea"
+Jowar (Sorghum),Medium,Yes,Borewell + Pond,"15,000–20,000",Medium,Medium,Yes,"Mustard, Linseed ",Sunflower,Sorghum + Green gram
+Jowar (Sorghum),Large,Yes,Canal + Borewell,">20,000",High,Medium,Yes,"Wheat, Bengal gram","Moong, Sunflower",Hybrid Sorghum + Soybean

@@ -1,0 +1,63 @@
+﻿Current Crop,Landholding,Irrigation,Water Source,Budget/acre (₹),Risk Appetite,Crop Cycle,Crop Rotation / Intercropping,Recommended Rabi Crop,Recommended Summer Crop,Recommended Kharif Crop,,,,,,,,,,,
+Rice,Small (<2 ha),Yes,Borewell/Canal,"10,000–15,000",Medium,Short-Medium,Yes,"Chickpea, Mustard, Lentil","Sunflower, Green gram",,,,,,,,,,,,
+Rice,Medium (2–5 ha),Yes,Borewell + Rain,"12,000–20,000",Medium to High,Medium,Yes,"Wheat, Mustard","Maize (fodder), Green gram",,,,,,,,,,,,
+Rice,Large (>5 ha),No,Rainfed + River,"15,000–18,000",Medium,Medium,Yes,"Chickpea, Linseed","Green gram, Leave fallow",,,,,,,,,,,,
+Maize,Small (<2 ha),No,Rainfed,"<10,000",Low,Short,Yes,"Chickpea, Horsegram","Leave fallow, Cowpea (green manure)",,,,,,,,,,,,
+Maize,Medium (2–5 ha),Yes,Borewell + Rain,"15,000–18,000",Medium,Medium,Yes,"Wheat, Mustard","Green gram, Vegetables",,,,,,,,,,,,
+Maize,Large (>5 ha),Yes,Canal + Borewell,"20,000+",High,Medium-Long,Yes,"Potato, Barley","Moong, Cash crops",,,,,,,,,,,,
+Cotton,Small (<2 ha),No,Rainfed,"<12,000",Low,Long,Yes,"Chickpea, Linseed","Leave fallow, Green gram",,,,,,,,,,,,
+Cotton,Medium (2–5 ha),Yes,Borewell + Canal,"15,000–18,000",Medium,Medium-Long,Yes,"Mustard, Wheat","Vegetables, Sunflower",,,,,,,,,,,,
+Cotton,Large (>5 ha),Yes,Borewell + Rain,"20,000+",High,Long,Yes,"Potato, Chickpea","Cash vegetables, Moong",,,,,,,,,,,,
+Ragi (Finger Millet),Small (<2 ha),No,Rainfed,"<10,000",Low,Short,Yes,"Horse gram, Field pea",Fallow or fodder grass,,,,,,,,,,,,
+Maize (Corn),Medium to Large (>2 ha),Yes,Borewell / Canal,"12,000–20,000",Medium to High,Medium,Yes,"Wheat, Mustard, Chickpea","Sunflower, Fodder maize",,,,,,,,,,,,
+Tur (Arhar),Small to Medium,No,Rainfed,"<15,000",Medium,Short to Medium,Yes,"Chickpea, Linseed",Green gram,,,,,,,,,,,,
+Gram (Chickpea),Medium,Yes,Canal / Borewell,"10,000–15,000",Medium,Short,Yes,,Green gram or Sunflower,"Sorghum, Bajra ",,,,,,,,,,,
+Groundnut,Small to Medium (<5 ha),Yes/No,Rainfed / Borewell,"12,000–18,000",Medium,Short to Medium,Yes,"Chickpea, Wheat","Sunflower, Green gram",,,,,,,,,,,,
+Sunflower,Medium to Large,Yes,Borewell / Canal,"15,000–20,000",Medium to High,Short,Yes,,"Wheat, Mustard",Maize + Cowpea intercrop,,,,,,,,,,,
+Safflower,Small to Medium,No,Rainfed,"<12,000",Low to Medium,Short,Yes,"Chickpea, Linseed",,"Pearl millet, Sorghum",,,,,,,,,,,
+Sugarcane,Large (>5 ha),Yes,Canal / Borewell,"30,000+",High,Long (12–18 months),Yes,,,,,,,,,,,,,,
+Jowar (Sorghum),Small,No,Rainfed,"<10,000",Low,Short,Yes,"Chickpea, Horse gram",Fallow,Sorghum + Pigeonpea (intercrop),,,,,,,,,,,
+Jowar (Sorghum),Small,Yes,Borewell,"10,000–15,000",Medium,Short,Yes,"Chickpea, Mustard ",Green gram,"Improved Sorghum, Cowpea",,,,,,,,,,,
+Jowar (Sorghum),Medium,Yes,Borewell + Pond,"15,000–20,000",Medium,Medium,Yes,"Mustard, Linseed ",Sunflower,Sorghum + Green gram,,,,,,,,,,,
+Jowar (Sorghum),Large,Yes,Canal + Borewell,">20,000",High,Medium,Yes,"Wheat, Bengal gram","Moong, Sunflower",Hybrid Sorghum + Soybean,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,Landholding,Irrigation,Water Source,Risk,Budget (₹/acre),Crop Preference,Crop Cycle,Rotation/Intercrop,Recommended Crops,,,,,,,,,,,,
+Ragi,Small,No,Rainfed,Low,"<8,000",Millets,Short,Yes,Kharif: Ragi + Pigeonpea Rabi: Chickpea Summer: Fallow or Cowpea,,,,,,,,,,,,
+,Medium,Yes,Borewell,Medium,"12,000–18,000",Millets + Pulses,Medium,Yes,"Kharif: Ragi + Field bean Rabi: Horse gram, Lentil Summer: Sunflower",,,,,,,,,,,,
+,Large,Yes,Borewell + Canal,High,">20,000",Mixed cropping,Medium,Yes,"Kharif: Hybrid Ragi + Groundnut Rabi: Linseed, Chickpea Summer: Green gram, Cash crops",,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Crop,Landholding,Irrigation,Water Source,Risk,Budget (₹/acre),Crop Preference,Crop Cycle,Rotation/Intercrop,Recommended Crops / Notes,,,,,,,,,,,,
+Tobacco,Medium to Large,Yes,Borewell/Canal,Medium,"20,000–35,000",Commercial,Short-Medium,Yes,"Intercrop with onion, Bengal gram. Rotate with maize or sorghum. Needs dry climate at maturity.",,,,,,,,,,,,
+Cashew,Small to Medium,No,Rainfed/Coastal Rain,Medium,"15,000–25,000",Plantation,Long (3–5 yrs),No,"Suitable for coastal regions. Once established, low input. Grows in poor soils. No intercrop recommended after 3rd year.",,,,,,,,,,,,
+Coconut,Medium to Large,Yes,Canal/River/Borewell,Low,"25,000–40,000",Plantation,Long,Yes,"Intercrop with cocoa, pineapple, banana, or turmeric in early years. Regular irrigation increases yield.",,,,,,,,,,,,
+Arecanut,Medium to Large,Yes,Borewell/Pond,Low,"30,000+",Plantation,Long,Yes,Intercrop with black pepper or banana. Shade-loving intercrops like ginger also suit. Requires humid climate.,,,,,,,,,,,,
+Cardamom,Small to Medium,Yes,Spring/Pond,Medium,"40,000+",Spice Crop,Long,No,Grown in high-altitude Western Ghats. Requires shade and high rainfall. Very specific agro-climatic need.,,,,,,,,,,,,
+Chillies,Small to Medium,Yes,Borewell/Rain,Medium,"15,000–25,000",Vegetable/Spice,Short-Medium,Yes,Rotate with pulses or onion. Intercrop with coriander. Needs dry weather during fruit maturity.,,,,,,,,,,,,
+Coffee,Medium to Large,Yes,Rainfed + Shade trees,Low,"40,000–60,000",Plantation,Long,Yes,"Intercrop with pepper, banana, or cardamom. Needs shade, well-drained soil, and elevation (900–1500 m).",,,,,,,,,,,,
+Tomato,Small to Medium,Yes,Borewell/Canal,Medium,"20,000–30,000",Vegetable,Short (100–120 days),Yes,Intercrop with onion or coriander. Rotate with legumes or millets. Sensitive to water stress and pests.,,,,,,,,,,,,
+Onion,Small to Medium,Yes,Borewell,Medium,"15,000–25,000",Vegetable,Short-Medium,Yes,"Rotate with maize, groundnut, or green gram. Intercrop with coriander or garlic.",,,,,,,,,,,,
+Potato,Medium to Large,Yes,Canal or Borewell,Medium,"30,000+",Vegetable,Short,Yes,Intercrop with peas or garlic. Rotate with cereals or mustard. Requires cool climate.,,,,,,,,,,,,
+Banana,Medium to Large,Yes,River/Canal/Borewell,Low,"35,000–50,000",Fruit,Long,Yes,"Intercrop with turmeric, short vegetables. Needs good drainage and high humidity.",,,,,,,,,,,,
+Mango,Medium to Large,Yes (initially),Rain + Borewell,Low,"25,000–40,000",Fruit,Long (30+ yrs),No,Suitable for dryland. Intercrop with legumes/vegetables in early 3–4 years.,,,,,,,,,,,,
+Grapes,Medium to Large,Yes,Canal/Borewell,High,"50,000–80,000",Fruit,Medium-Long,No,"High investment. Suitable for dry, frost-free regions. Sensitive to rainfall during flowering.",,,,,,,,,,,,
+Pomegranate,Small to Medium,Yes,Borewell,Medium,"25,000–40,000",Fruit,Medium-Long,Yes,Intercrop with legumes or onion. Requires dry climate. Susceptible to bacterial blight.,,,,,,,,,,,,
+Papaya,Small to Medium,Yes,Borewell,Medium,"20,000–30,000",Fruit,Medium,Yes,Short-lived tree crop. Intercrop with short-term crops like green gram or coriander in initial months.,,,,,,,,,,,,
+Pineapple,Small to Medium,Yes,Rainfed + Drip,Medium,"25,000–35,000",Fruit,Medium,Yes,"Intercrop with legumes or ginger. Requires acidic, well-drained soils. Suitable for coastal hills.",,,,,,,,,,,,
+Jackfruit,Medium to Large,No,Rainfed,Low,"15,000–25,000",Fruit,Long,No,Suitable for homesteads. Needs well-drained soil. Intercropping not advised post establishment.,,,,,,,,,,,,
+Turmeric,Small to Medium,Yes,Canal/Borewell,Medium,"30,000–40,000",Spice,Medium,Yes,"Rotate with maize or pulses. Intercrop with chilli or onion. Requires shade, rich organic matter.",,,,,,,,,,,,
+Ginger,Small to Medium,Yes,Borewell + Mulching,Medium,"35,000–45,000",Spice,Medium,Yes,Intercrop with banana or turmeric. Needs loamy soil and high organic matter.,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Crop,Total Farmland Area,Water Source,Irrigation,Irrigation Type,Past Crops,Budget (₹/acre),Market Access,Preferred Crop,Risk,Fertilizer,Pest Mgmt,Crop Cycle,Rotation/Intercrop,Livestock,Smartphone,Machinery,Storage,Transport,Temp (°C),Altitude (m),Recommended Next Crops
+Marigold,Small–Medium,Borewell + Rain,Yes,Drip / Sprinkler,"Vegetables, Sunflower","₹15,000–₹20,000",Yes,Flowers,Medium,Organic + Chem,IPM,Short,Intercrop: Beans,"Goats, Poultry",Yes,Light,Partial,Yes,18–32,300–1000,"Tomato, Onion, Green Gram"
+Chrysanthemum,Medium,Borewell,Yes,Drip,"Marigold, Brinjal","₹20,000–₹25,000",Yes,Flowers,Medium,Chemical,IPM,Medium,Rotation: Okra,Dairy,Yes,Medium,Partial,Yes,18–28,600–1000,"Coriander, Beans, Cowpea"
+Jasmine,Small–Medium,Borewell,Yes,Drip,"Betel leaf, Paddy","₹20,000–₹30,000",Yes (local),Perennials,Medium,Organic,Manual,Long,Intercrop: Turmeric,Poultry,Yes,Light,Partial,Local,20–35,500–1000,Continue with Jasmine / Groundnut
+Rose,Medium–Large,Canal + Borewell,Yes,Drip,"Vegetables, Banana","₹30,000–₹40,000",Yes (urban),Flowers,High,Chemical,IPM,Medium–Long,Intercrop: Garlic,Dairy,Yes,Medium,Yes,Yes,18–30,700–1200,"Garlic, Carrot, Chrysanthemum"
+Tuberose,Medium,Borewell + Rain,Yes,Drip,"Turmeric, Marigold","₹22,000–₹30,000",Yes,Flowers,Medium,Organic,IPM,Medium–Long,Intercrop: Onion,Dairy,Yes,Medium,Partial,Yes,20–35,400–1000,"Turmeric, Coriander, Fodder Maize"
+,,,,,,,,,,,,,,,,,,,,,
+Crop,Landholding,Water Source,Irrigation,Irrigation Type,Past Crops,Budget (₹/acre),Market Access,Crop Preference,Risk,Fertilizer,Pest Mgmt,Crop Cycle,Rotation/Intercrop,Livestock,Smartphone,Machinery,Storage,Transport,Temp (°C),Altitude (m),Recommended Next Crops
+Tur (Pigeonpea),Small–Medium,Rainfed + Borewell,Optional,NA / Drip,"Millets, Maize","₹8,000–₹12,000",Yes,Pulses,Low–Med,Organic/Both,IPM + Neem-based sprays,Long,Intercrop with Finger Millet,Yes (Goats),Yes,Light,Partial,Yes,25–38,400–900,"Horse gram, Gram, Fallow"
+Gram (Chickpea),Small–Large,Rainfed / Pond,No,NA,"Sorghum, Rice","₹6,000–₹10,000",Local + MSP,Pulses,Low,Organic,Organic / IPM,Short–Medium,Rotation with Mustard,Yes (Poultry),Yes,Light,Partial,Yes,20–30,300–1000,"Green Gram, Fodder Sorghum"
+Green Gram (Moong),Small–Medium,Borewell / Rainfed,Yes,Sprinkler,"Cotton, Sorghum","₹7,000–₹10,000",Yes,Pulses,Medium,Both,IPM,Short,"Rotation with Maize, Rice",Yes (Goats),Yes,Light,No,Partial,25–35,300–800,"Chickpea, Mustard, Groundnut"
+Black Gram (Urad),Small–Medium,Rainfed / Canal,Optional,NA / Flood,"Paddy, Maize","₹8,000–₹12,000",Yes,Pulses,Low–Med,Organic,"Neem, Manual Sprays",Short,Intercrop with Maize,Yes,Yes,Light,No,Yes,22–35,300–800,"Gram, Lentil, Onion"
+Horse Gram (Hurali),Small,Rainfed,No,NA,"Millets, Sorghum","< ₹5,000",Limited,Pulses,Low,Organic,Traditional Practices,Short,Fallow or Intercrop in Kharif,Yes,Yes,Light,No,Partial,25–35,200–1000,"Millets, Sorghum"
+Cowpea (Alsande),Small–Medium,Borewell + Rain,Yes,Drip/Sprinkler,"Groundnut, Vegetables","₹10,000–₹15,000",Yes,Pulses + Veg,Medium,Both,IPM,Short–Medium,"Intercrop with Maize, Cotton",Yes,Yes,Light,Partial,Yes,24–35,400–900,"Onion, Green Gram, Chilli"
